@@ -1,1 +1,1 @@
-# Personal Website HTMl-only
+# V1.0 of my personal website in HTML-only. This is a humble attempt to emulate the personal sites of great CS Professors such as Thomas H. Cormen (https://www.cs.dartmouth.edu/~thc/).  This is the first actual project I am doing outside my University studies.
